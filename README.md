@@ -4,7 +4,7 @@ Welcome to Slice AMSR, a soothing and satisfying ASMR experience with virtual sl
 
 ## Play the Experience
 
-[Start Slicing](https://your-username.github.io/slice-amsr/) 🎧
+[Start Slicing]( https://aryan0-1maurya.github.io/Slice-amsr/) 🎧
 
 ## About the Experience
 
